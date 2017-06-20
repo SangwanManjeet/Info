@@ -1,0 +1,2 @@
+Redux Video Tutorials
+https://egghead.io/lessons/javascript-redux-extracting-action-creators?series=getting-started-with-redux
