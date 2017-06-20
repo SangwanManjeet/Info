@@ -1,2 +1,5 @@
 Redux Video Tutorials
 https://egghead.io/lessons/javascript-redux-extracting-action-creators?series=getting-started-with-redux
+
+React Code Setup
+https://www.codementor.io/tamizhvendan/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack-du107r9zr
